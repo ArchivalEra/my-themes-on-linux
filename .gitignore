@@ -1,0 +1,7 @@
+# 上游主题目录只放本地（升级用 git pull），不进本仓库
+alacritty/
+antigravity/
+fuzzel/
+kde/
+konsole/
+zen-browser/
