@@ -10,9 +10,9 @@
 | `konsole/` | `catppuccin/konsole` | 终端配色 |
 | `fuzzel/` | `catppuccin/fuzzel` | 启动器配色（Latte Blue / Frappe Teal） |
 | `alacritty/` | `catppuccin/alacritty` | Alacritty 0.17 官方风味文件 |
-| `zen-browser/` | `catppuccin/zen-browser` | Zen 用（本次未应用，按兵不动） |
+| `zen-browser/` | `catppuccin/zen-browser` | 未应用 |
 | `scripts/` | 自写 | 一键切换浅/深 |
-| `wallpapers/` | 你的两张图 | 浅色 latte-blue.jpg / 深色 frappe-teal.jpg |
+| `wallpapers/` | 两张图 | 浅色 latte-blue.jpg / 深色 frappe-teal.jpg |
 
 上游目录不要手改，升级用 `git pull`。
 
